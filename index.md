@@ -34,7 +34,8 @@ AdGuard Home, Uptime Kuma, n8n, Jellyfin, Gluetun, and LibreChat.
 
 ---
 
-### Network Security Monitoring and SIEM Dashboard
+### Sentinel - Network Security Monitoring and SIEM Dashboard
+*IN PROGRESS*
 
 Developing a network security monitoring dashboard designed to improve
 visibility into security-relevant activity across systems and services. The
